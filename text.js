@@ -1,36 +1,76 @@
+hello 
 
-asdfghlk asdfsdfghlk asdfghlkjjjjj
+llHey 
 
-Hey 
 there!
+jasdfghlkj 
+asdfghRxkRRRuulkh jasdfghlkj asdfghlk asdfghlk asdfghlkjjjasdfghlk asdfghlkjjjjasdfghlk asdfghlkjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjjj sss
 
-ks
-asdfghlkl asdfghlklll asdfghlkll asdfghlkll asdfghlkll asdfghlkl     l
-asdfghlkRRRRRuuhlkj asdfghlkj asdfghlk asdfghlk asdfghlkjjjasdfghlk asdfghlkjjjjasdfghlk asdfghlkjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjasdfghlk asdfghlkjjjjjjj
 hey what's up
-asdfghlkjjasdfghlkjj
-asdfghlkjjasdfghlkjj
+   asdfghlkjjasdfghlkjj
+asdfghlkjjasdfghlj
 hey what's up
 there!
 Hello there!djkHello there!djkHello there!djkHello there!djkHello there!djkHello there!djk
 Hello there!djkHello there!djkHello there!djkHello there!djkHello there!djk
 
-akkasdfghlkjjsdfghlkjj
-hey what's up
-asdfghlkjjasdfghlkjj
+
 function hello (para, param){
+
+there!
 	const num = para;
 	return num
 }
-Hello there!djk
+
+
+Hey 
+there!
+Line 1.
+Line 2.
+Line 3.
+Line 4hwello.
+Line 5.hwello
+Line 6.hwello
+Line 7hwello.
+Line 8.hwello
+Line 9hwello.
+Lhwelloine 10.
+
+hwello
+hwello what Line asdfghlkjasdfghlkjjjjjjjj
+
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+
+hello what Line asdfghlkjasdfghlkjjjjjjjj
+hello 
+hellohellohellohellohellohellohellohellohello         
+
+hello hello hello hello 
+
+E:\learnVim\text.js
+E:\learnVim\text.js
+E:\learnVim\text.js
+
+Hello World
+Hello World
+
+
+asdfghlkjjasdfghl;kjj            
 asdfghlkjjasdfghlkjj
 asdfghlkjjasdfghlkjj
-asdfghlkjjasdfghlkjj
-asdfghlkjjasdfghlkjj
+asdfghlkjkkjasdfghlkjj
 "Hello there!djk"
 asdfghlkjjasdfghlkjj
 asdfghlkjjasdfghlkjj
-asdfghlkjjasdfghlkjj
+asdfghlkjjasdfghlkj
 asdfghlkjjasdfghlkjj
 asdfghlkjjasdfghlkjj
 asdfghlkjjasdfghlkjj
@@ -42,7 +82,7 @@ asdfghlkjjl
 aasasdfghlkjjdfghlkjjsdfghlkjj
 asdfghlkjjasdfghlkjjasdfghlkjjasdfghlkjj
 asdfghlkjasdfghlkjjjjjjjj
-
+ss
 
 asdfghbbb asdfghlkjjjjjasdfghlk asdfghlkjjjjj
 asdfghlk asdfghlkjjjjj

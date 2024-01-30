@@ -1,4 +1,4 @@
-const text = "hey world";
+let text = "hey world";
 
 // cursor on 1st letter f<last letter> ~
 // change case

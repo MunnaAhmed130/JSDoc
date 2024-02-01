@@ -1,9 +1,14 @@
-let text = "hey world";
-// cursor on 1st letter f<last letter> ~
-// change case
-text = "hey world";
-text = "HEY WORLD";
-text = "hey world";
+// @ts-check
+
+/**
+ * @type {string}
+ */
+const text = "Hello World";
+
+/**
+ * @type {Array<number>}
+ */
+const grades = [83, 92, 74];
 
 /** This function adds 2 numbers and returns a number
  * @param {number} num1 - any number
@@ -18,11 +23,6 @@ function add(num1, num2) {
 add(1, 2);
 console.log(text);
 
-text = "hello world";
-text = "hello world";
-text = "hello world";
-
-console.log(text);
-
-console.log(text);
-console.log(text);
+// console.log(text);
+// console.log(text);
+// console.log(text);

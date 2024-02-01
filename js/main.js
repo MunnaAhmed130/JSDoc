@@ -1,14 +1,22 @@
 // @ts-check
 
-/**
+/** a random text
  * @type {string}
  */
 const text = "Hello World";
 
-/**
+/** Array of grades
  * @type {Array<number>}
  */
 const grades = [83, 92, 74];
+
+/** User object
+ * @type {{id: number|string, name: string}}
+ */
+const user = {
+    id: "1",
+    name: "adam",
+};
 
 /** This function adds 2 numbers and returns a number
  * @param {number} num1 - any number

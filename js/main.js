@@ -18,7 +18,6 @@ function add(num1, num2) {
 add(1, 2);
 console.log(text);
 
-// This is a comment
 text = "hello world";
 text = "hello world";
 text = "hello world";

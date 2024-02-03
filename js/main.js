@@ -47,8 +47,7 @@ function calculateTax(amount, tax) {
 let value = calculateTax(2000, 4);
 
 // custom type/ type def/definition
-/**
- * A student
+/** A student
  * @typedef {object} Student
  * @property {number} id - student id
  * @property {string} name - student name

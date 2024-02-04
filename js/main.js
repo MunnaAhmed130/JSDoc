@@ -58,9 +58,19 @@ let value = calculateTax(2000, 4);
 /**
  * @type {Student}
  */
-const student = {
+const john = {
     id: 1,
     name: "John Doe",
     age: 20,
     isActive: true,
+};
+
+/**
+ * @type {Student}
+ */
+const james = {
+    id: 2,
+    name: "James Doe",
+    age: 23,
+    isActive: false,
 };

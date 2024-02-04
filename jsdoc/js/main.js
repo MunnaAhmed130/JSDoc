@@ -18,6 +18,19 @@ const user = {
     name: "adam",
 };
 
+// enum documents a (object)collection of static properties whose values are of the same type
+/**
+ * @readonly
+ * @enum {number}
+ */
+const state = {
+    true: 1,
+    false: -1,
+    maybe: 3,
+};
+
+state.true = ;
+
 /** adds 2 numbers
  * @param {number} num1 - any number
  * @param {number} num2 - any number

@@ -1,0 +1,9 @@
+// this below setting is all we need to enable jsdoc in a typescript environment
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "allowJs": true,
+        "checkJs": true,
+        "strict": true
+    }
+}

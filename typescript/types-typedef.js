@@ -13,7 +13,6 @@ let message = "Hello World!";
  */
 let count = 1;
 
-// Array<number>/number[]
 /**
  * @type {number[]}
  */

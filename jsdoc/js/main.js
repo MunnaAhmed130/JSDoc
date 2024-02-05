@@ -5,6 +5,11 @@
  */
 let text = "Hello World";
 
+/**
+ * @type {Array}
+ */
+const myArray = [20, 40, 50, "Hi"];
+
 /** Array of grades
  * @type {Array<number>}
  */
@@ -26,10 +31,11 @@ const user = {
 const state = {
     true: 1,
     false: -1,
-    maybe: 3,
+    /**@type {boolean} */
+    maybe: true,
 };
 
-state.true = ;
+state.true = 2;
 
 /** adds 2 numbers
  * @param {number} num1 - any number
@@ -64,7 +70,7 @@ let value = calculateTax(2000, 4);
  * @typedef {object} Student
  * @property {number} id - student id
  * @property {string} name - student name
- * @property {string|number} [age] - student age (optional)
+ * @property {string|number} [age] - student age
  * @property {boolean} isActive - student is active
  */
 

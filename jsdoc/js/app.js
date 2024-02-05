@@ -1,3 +1,5 @@
+// @ts-check
+
 /** Class to create a person object */
 class Person {
     /**
@@ -13,9 +15,10 @@ class Person {
          */
         this.age = personInfo.age;
     }
+
     /**
      * @property {Function} greet - A greeting with the name and age
-     * @returns {void}
+     * @returns {string}
      */
     greet() {
         return `Hello, my name is ${this.name} and I am ${this.age}`;
